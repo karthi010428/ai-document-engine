@@ -27,3 +27,5 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
     </html>
   );
 }
+
+// [milestone]: chore: scaffold Next.js project with typescript and tailwind
