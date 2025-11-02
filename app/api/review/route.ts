@@ -291,3 +291,4 @@ export async function PUT(req: NextRequest) {
     );
   }
 }
+// [milestone]: feat: setup mongodb atlas connection with mongoose schemas
