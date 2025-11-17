@@ -294,3 +294,5 @@ export async function PUT(req: NextRequest) {
 // [milestone]: feat: setup mongodb atlas connection with mongoose schemas
 
 // [milestone]: feat: implement pdf and image upload endpoint using multer
+
+// [milestone]: feat: add file size validation and mime-type restriction middleware
