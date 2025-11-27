@@ -28,3 +28,5 @@ if (process.env.NODE_ENV === "development") {
 
 export default clientPromise;
 // [milestone]: feat: define invoice document schema with nested line-item types
+
+// [milestone]: feat: configure gemini structured output parser using zod schema
