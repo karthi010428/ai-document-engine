@@ -29,3 +29,5 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
 }
 
 // [milestone]: chore: scaffold Next.js project with typescript and tailwind
+
+// [milestone]: feat: implement vendor details and invoice metadata extractor
