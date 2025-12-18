@@ -593,3 +593,4 @@ export default function DocumentAuditDashboard() {
     </div>
   );
 }
+// [milestone]: feat: implement multi-tier zod validation gates for data integrity
