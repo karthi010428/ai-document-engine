@@ -594,3 +594,5 @@ export default function DocumentAuditDashboard() {
   );
 }
 // [milestone]: feat: implement multi-tier zod validation gates for data integrity
+
+// [milestone]: feat: implement arithmetic validation (quantity * price == line total)
