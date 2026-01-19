@@ -32,3 +32,5 @@ export default clientPromise;
 // [milestone]: feat: configure gemini structured output parser using zod schema
 
 // [milestone]: refactor: modularize document parsing engine into dedicated services
+
+// [milestone]: feat: create extracted data review dashboard layout
