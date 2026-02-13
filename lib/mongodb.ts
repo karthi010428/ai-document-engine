@@ -34,3 +34,5 @@ export default clientPromise;
 // [milestone]: refactor: modularize document parsing engine into dedicated services
 
 // [milestone]: feat: create extracted data review dashboard layout
+
+// [milestone]: feat: add vendor spend analytics chart using tailwind and recharts
