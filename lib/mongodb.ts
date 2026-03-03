@@ -38,3 +38,5 @@ export default clientPromise;
 // [milestone]: feat: add vendor spend analytics chart using tailwind and recharts
 
 // [milestone]: feat: add dispute email template drafting with auto-filled values
+
+// [milestone]: refactor: improve gemini api error handling and rate-limit retries
