@@ -37,3 +37,5 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
 // [milestone]: feat: add duplicate invoice number detection against mongodb
 
 // [milestone]: feat: implement dynamic vendor risk scoring algorithm
+
+// [milestone]: fix: handle missing line items and irregular invoice table formats
