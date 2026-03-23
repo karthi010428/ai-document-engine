@@ -300,3 +300,5 @@ export async function PUT(req: NextRequest) {
 // [milestone]: feat: implement tax calculation discrepancy checker
 
 // [milestone]: fix: resolve floating-point arithmetic errors in total calculation
+
+// [milestone]: test: write unit tests for zod invoice schema validation
