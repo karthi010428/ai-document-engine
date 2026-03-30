@@ -40,3 +40,5 @@ export default clientPromise;
 // [milestone]: feat: add dispute email template drafting with auto-filled values
 
 // [milestone]: refactor: improve gemini api error handling and rate-limit retries
+
+// [milestone]: test: add jest tests for line-item arithmetic verification
