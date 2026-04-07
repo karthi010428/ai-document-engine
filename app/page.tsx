@@ -598,3 +598,5 @@ export default function DocumentAuditDashboard() {
 // [milestone]: feat: implement arithmetic validation (quantity * price == line total)
 
 // [milestone]: feat: add side-by-side document preview and extracted form fields
+
+// [milestone]: perf: optimize mongodb indexes on vendor and invoice status fields
