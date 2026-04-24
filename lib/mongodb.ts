@@ -42,3 +42,5 @@ export default clientPromise;
 // [milestone]: refactor: improve gemini api error handling and rate-limit retries
 
 // [milestone]: test: add jest tests for line-item arithmetic verification
+
+// [milestone]: refactor: extract gemini prompt engineering into config directory
