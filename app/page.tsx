@@ -600,3 +600,5 @@ export default function DocumentAuditDashboard() {
 // [milestone]: feat: add side-by-side document preview and extracted form fields
 
 // [milestone]: perf: optimize mongodb indexes on vendor and invoice status fields
+
+// [milestone]: docs: add api endpoint specifications and schema documentation
