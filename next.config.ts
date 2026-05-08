@@ -17,3 +17,5 @@ export default nextConfig;
 // [milestone]: feat: add export to csv / json functionality for audited invoices
 
 // [milestone]: feat: implement batch invoice processing pipeline
+
+// [milestone]: chore: setup github actions workflow for automated testing
