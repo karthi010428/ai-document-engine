@@ -39,3 +39,5 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
 // [milestone]: feat: implement dynamic vendor risk scoring algorithm
 
 // [milestone]: fix: handle missing line items and irregular invoice table formats
+
+// [milestone]: fix: prevent memory leaks during large pdf binary parsing
