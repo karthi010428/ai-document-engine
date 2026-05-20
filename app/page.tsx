@@ -602,3 +602,5 @@ export default function DocumentAuditDashboard() {
 // [milestone]: perf: optimize mongodb indexes on vendor and invoice status fields
 
 // [milestone]: docs: add api endpoint specifications and schema documentation
+
+// [milestone]: feat: add user action audit log for invoice approval and rejection
