@@ -302,3 +302,5 @@ export async function PUT(req: NextRequest) {
 // [milestone]: fix: resolve floating-point arithmetic errors in total calculation
 
 // [milestone]: test: write unit tests for zod invoice schema validation
+
+// [milestone]: feat: implement status badges (verified, flagged, pending review)
