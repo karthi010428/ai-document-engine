@@ -304,3 +304,5 @@ export async function PUT(req: NextRequest) {
 // [milestone]: test: write unit tests for zod invoice schema validation
 
 // [milestone]: feat: implement status badges (verified, flagged, pending review)
+
+// [milestone]: perf: cache frequent vendor metadata queries in memory
