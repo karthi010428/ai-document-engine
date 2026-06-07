@@ -41,3 +41,5 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
 // [milestone]: fix: handle missing line items and irregular invoice table formats
 
 // [milestone]: fix: prevent memory leaks during large pdf binary parsing
+
+// [milestone]: refactor: clean up frontend state management with custom hooks
