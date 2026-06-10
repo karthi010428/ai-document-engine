@@ -44,3 +44,5 @@ export default clientPromise;
 // [milestone]: test: add jest tests for line-item arithmetic verification
 
 // [milestone]: refactor: extract gemini prompt engineering into config directory
+
+// [milestone]: fix: handle edge cases with multi-currency invoice symbols
