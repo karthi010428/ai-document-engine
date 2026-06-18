@@ -306,3 +306,5 @@ export async function PUT(req: NextRequest) {
 // [milestone]: feat: implement status badges (verified, flagged, pending review)
 
 // [milestone]: perf: cache frequent vendor metadata queries in memory
+
+// [milestone]: feat: add role-based guard on dispute generation triggers
