@@ -46,3 +46,5 @@ export default clientPromise;
 // [milestone]: refactor: extract gemini prompt engineering into config directory
 
 // [milestone]: fix: handle edge cases with multi-currency invoice symbols
+
+// [milestone]: test: add integration test for full extraction to mongodb save flow
