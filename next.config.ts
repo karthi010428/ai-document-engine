@@ -19,3 +19,5 @@ export default nextConfig;
 // [milestone]: feat: implement batch invoice processing pipeline
 
 // [milestone]: chore: setup github actions workflow for automated testing
+
+// [milestone]: docs: create comprehensive setup guide with gemini api key steps
