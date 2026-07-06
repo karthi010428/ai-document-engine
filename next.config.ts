@@ -21,3 +21,5 @@ export default nextConfig;
 // [milestone]: chore: setup github actions workflow for automated testing
 
 // [milestone]: docs: create comprehensive setup guide with gemini api key steps
+
+// [milestone]: refactor: optimize bundle size and remove unused ui dependencies
