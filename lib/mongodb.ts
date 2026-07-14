@@ -48,3 +48,5 @@ export default clientPromise;
 // [milestone]: fix: handle edge cases with multi-currency invoice symbols
 
 // [milestone]: test: add integration test for full extraction to mongodb save flow
+
+// [milestone]: feat: add dark mode support to invoice inspection table
