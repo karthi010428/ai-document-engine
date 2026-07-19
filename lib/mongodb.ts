@@ -50,3 +50,5 @@ export default clientPromise;
 // [milestone]: test: add integration test for full extraction to mongodb save flow
 
 // [milestone]: feat: add dark mode support to invoice inspection table
+
+// [milestone]: fix: correct date timezone parsing for foreign invoice formats
