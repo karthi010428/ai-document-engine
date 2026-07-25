@@ -52,3 +52,5 @@ export default clientPromise;
 // [milestone]: feat: add dark mode support to invoice inspection table
 
 // [milestone]: fix: correct date timezone parsing for foreign invoice formats
+
+// [milestone]: perf: reduce cold start latency on api serverless functions
