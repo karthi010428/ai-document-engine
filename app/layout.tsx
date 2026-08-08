@@ -43,3 +43,5 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
 // [milestone]: fix: prevent memory leaks during large pdf binary parsing
 
 // [milestone]: refactor: clean up frontend state management with custom hooks
+
+// [milestone]: chore: finalize version 1.0 release and documentation
