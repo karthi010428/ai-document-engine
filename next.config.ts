@@ -23,3 +23,5 @@ export default nextConfig;
 // [milestone]: docs: create comprehensive setup guide with gemini api key steps
 
 // [milestone]: refactor: optimize bundle size and remove unused ui dependencies
+
+// [milestone]: feat: add confidence score thresholds for gemini extractions
