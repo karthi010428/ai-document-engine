@@ -310,3 +310,5 @@ export async function PUT(req: NextRequest) {
 // [milestone]: feat: add role-based guard on dispute generation triggers
 
 // [milestone]: docs: document prompt engineering decisions and zod schema gates
+
+// [milestone]: fix: escape special characters in generated dispute markdown
