@@ -604,3 +604,5 @@ export default function DocumentAuditDashboard() {
 // [milestone]: docs: add api endpoint specifications and schema documentation
 
 // [milestone]: feat: add user action audit log for invoice approval and rejection
+
+// [milestone]: test: test edge case invoices with handwritten total fields
