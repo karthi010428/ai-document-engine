@@ -45,3 +45,5 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
 // [milestone]: refactor: clean up frontend state management with custom hooks
 
 // [milestone]: chore: finalize version 1.0 release and documentation
+
+// [milestone]: chore: update gemini api model identifier to latest stable build
