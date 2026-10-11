@@ -1,5 +1,7 @@
 # AI Invoice Audit Engine
 
+[![CI](https://github.com/karthi010428/ai-document-engine/actions/workflows/ci.yml/badge.svg)](https://github.com/karthi010428/ai-document-engine/actions)
+
 Upload an invoice (PDF or image). Gemini extracts structured data, and multi-tier Zod rules audit it for duplicate bills, line-item arithmetic mismatches, and tax discrepancies.
 
 **Live demo:** [https://ai-document-engine-nu.vercel.app/](https://ai-document-engine-nu.vercel.app/)
