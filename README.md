@@ -6,6 +6,8 @@ Upload an invoice (PDF or image). Gemini extracts structured data, and multi-tie
 
 **Live demo:** [https://ai-document-engine-nu.vercel.app/](https://ai-document-engine-nu.vercel.app/)
 
+![AI Invoice Audit Engine Dashboard](https://raw.githubusercontent.com/karthi010428/karthi010428/main/aidoc.png)
+
 ## Key Features
 
 * **Multimodal Extraction:** Extracts vendor, invoice ID, line items, and tax breakdown using Google Gemini.
