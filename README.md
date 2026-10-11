@@ -36,3 +36,7 @@ npm run dev
 ## License
 
 MIT
+
+## Limitations and next steps
+- Demo project: use sample invoices only, not real company data
+- Next: add login, and support more invoice layouts
